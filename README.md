@@ -1,0 +1,2 @@
+# resource
+general exercises
